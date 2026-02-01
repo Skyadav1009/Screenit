@@ -1,0 +1,5 @@
+{
+  "name": "ResumeAI Studio",
+  "description": "An AI-powered resume screener and career coach featuring ATS analysis, job matching, and detailed feedback using the Google AI Studio aesthetic.",
+  "requestFramePermissions": []
+}
